@@ -19,7 +19,7 @@
 #Project {
 	position: absolute;
 	width: 1920px;
-	height: 6012px;
+	height: 6126px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Project;
@@ -67,7 +67,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Through_small_sample_of_visual_b {
+#Des {
 	left: 272px;
 	top: 882px;
 	position: absolute;
@@ -77,128 +77,41 @@
 	line-height: 50px;
 	margin-top: -7.5px;
 	text-align: center;
-	font-family: Helvetica Neue;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 35px;
-	color: rgba(59,59,59,1);
+	color: #5D5D5D;
 	letter-spacing: 0.59px;
 }
-#GET_IN_TOUCH_b {
-	position: absolute;
-	width: 1622.903px;
-	height: 242px;
-	left: 149px;
-	top: 5627px;
-	overflow: visible;
-}
-#Our_Client_b {
-	position: absolute;
-	width: 286px;
-	height: 44px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#GET_IN_TOUCH_ca {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 287px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 40px;
-	color: rgba(100,100,100,1);
-}
-#Group_16_cb {
-	position: absolute;
-	width: 259.903px;
-	height: 46.111px;
-	left: 1363px;
-	top: 134px;
-	overflow: visible;
-}
-#Path_1_cc {
-	fill: rgba(102,89,72,1);
-}
-.Path_1_cc {
-	overflow: visible;
-	position: absolute;
-	width: 46.393px;
-	height: 46.111px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Path_2_cd {
-	fill: rgba(102,89,72,1);
-}
-.Path_2_cd {
-	overflow: visible;
-	position: absolute;
-	width: 41.903px;
-	height: 41.903px;
-	left: 111px;
-	top: 4px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Path_4_ce {
-	fill: rgba(102,89,72,1);
-}
-.Path_4_ce {
-	overflow: visible;
-	position: absolute;
-	width: 41.903px;
-	height: 41.903px;
-	left: 218px;
-	top: 4px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#ID1270_Topaz_Ave_San_Jose_CA_9_cf {
-	left: 1px;
-	top: 76px;
-	position: absolute;
-	overflow: visible;
-	width: 743px;
-	height: 166px;
-	line-height: 60px;
-	margin-top: -12.5px;
-	text-align: left;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
-	color: rgba(70,70,70,1);
-}
-#Please_contact_me_at_cg {
-	left: 1206px;
-	top: 76px;
-	position: absolute;
-	overflow: hidden;
-	width: 417px;
-	height: 33px;
-	text-align: right;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
-	color: rgba(70,70,70,1);
-}
-#Description_Plastic_has_been_u {
+#Description_In_the_future_the_ {
 	left: 211px;
 	top: 1071px;
 	position: absolute;
 	overflow: visible;
 	width: 1501px;
-	height: 680px;
+	height: 133px;
 	line-height: 70px;
 	margin-top: -17.5px;
 	text-align: left;
-	font-family: Helvetica Neue;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(93,93,93,1);
+	letter-spacing: 0.59px;
+}
+#Solution_To_convey_the_ideas_I {
+	left: 211px;
+	top: 1302px;
+	position: absolute;
+	overflow: visible;
+	width: 1501px;
+	height: 324px;
+	line-height: 70px;
+	margin-top: -17.5px;
+	text-align: left;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 35px;
@@ -206,16 +119,16 @@
 	letter-spacing: 0.59px;
 }
 #Des-diagram_1 {
-	left: 211px;
-	top: 1670px;
+	left: 210px;
+	top: 1724px;
 	position: absolute;
 	overflow: visible;
 	width: 1501px;
-	height: 182px;
+	height: 392px;
 	line-height: 70px;
 	margin-top: -17.5px;
 	text-align: left;
-	font-family: Helvetica Neue;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 35px;
@@ -223,8 +136,8 @@
 	letter-spacing: 0.59px;
 }
 #Des_diagram_2 {
-	left: 211px;
-	top: 3754px;
+	left: 210px;
+	top: 3861px;
 	position: absolute;
 	overflow: visible;
 	width: 1501px;
@@ -232,7 +145,7 @@
 	line-height: 70px;
 	margin-top: -17.5px;
 	text-align: left;
-	font-family: Helvetica Neue;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 35px;
@@ -244,7 +157,7 @@
 	width: 1500px;
 	height: 1561px;
 	left: 211px;
-	top: 3966px;
+	top: 4099px;
 	overflow: visible;
 }
 #diagram_1 {
@@ -252,51 +165,8 @@
 	width: 1500px;
 	height: 1591.463px;
 	left: 211px;
-	top: 2063px;
+	top: 2172px;
 	overflow: visible;
-}
-#Foot_cm {
-	position: absolute;
-	width: 1920px;
-	height: 102px;
-	left: 0px;
-	top: 5910px;
-	overflow: visible;
-}
-#Base_cn {
-	fill: rgba(236,236,236,1);
-}
-.Base_cn {
-	position: absolute;
-	overflow: visible;
-	width: 1920px;
-	height: 102px;
-	left: 0px;
-	top: 0px;
-}
-#Text_co {
-	position: absolute;
-	width: 202px;
-	height: 14px;
-	left: 859px;
-	top: 47px;
-	overflow: visible;
-}
-#_2020_Huy_Tran_All_Rights_Rese_cp {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 203px;
-	white-space: nowrap;
-	line-height: 14px;
-	margin-top: -1px;
-	text-align: left;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
 }
 #UPGRADE_PROJECT {
 	left: 1076px;
@@ -306,12 +176,13 @@
 	width: 755px;
 	height: 214px;
 	text-align: right;
-	font-family: Helvetica Neue;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 120px;
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.59px;
+	line-height: .7;
 }
 #Group_18 {
 	position: absolute;
@@ -329,7 +200,7 @@
 	top: 11px;
 	overflow: visible;
 }
-#PROJECTS_ct {
+#PROJECTS_ch {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -341,14 +212,14 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Helvetica Neue;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 35px;
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.59px;
 }
-#PROFILE_cu {
+#PROFILE_ci {
 	left: 269px;
 	top: 0px;
 	position: absolute;
@@ -360,7 +231,7 @@
 	--web-action-target: about.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Helvetica Neue;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 35px;
@@ -375,10 +246,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_2_cw {
+#Path_2_ck {
 	fill: rgba(255,255,255,1);
 }
-.Path_2_cw {
+.Path_2_ck {
 	overflow: visible;
 	position: absolute;
 	width: 5.453px;
@@ -387,10 +258,10 @@
 	top: 13.763px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_3_cx {
+#Path_3_cl {
 	fill: rgba(255,255,255,1);
 }
-.Path_3_cx {
+.Path_3_cl {
 	overflow: visible;
 	position: absolute;
 	width: 26.752px;
@@ -399,10 +270,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_4_cy {
+#Path_4_cm {
 	fill: rgba(255,255,255,1);
 }
-.Path_4_cy {
+.Path_4_cm {
 	overflow: visible;
 	position: absolute;
 	width: 29.094px;
@@ -411,10 +282,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_5_cz {
+#Path_5_cn {
 	fill: rgba(255,255,255,1);
 }
-.Path_5_cz {
+.Path_5_cn {
 	overflow: visible;
 	position: absolute;
 	width: 5.454px;
@@ -423,10 +294,10 @@
 	top: 38.576px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_6_c {
+#Path_6_co {
 	fill: rgba(255,255,255,1);
 }
-.Path_6_c {
+.Path_6_co {
 	overflow: visible;
 	position: absolute;
 	width: 22.048px;
@@ -435,10 +306,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_7_c {
+#Path_7_cp {
 	fill: rgba(255,255,255,1);
 }
-.Path_7_c {
+.Path_7_cp {
 	overflow: visible;
 	position: absolute;
 	width: 23.43px;
@@ -447,10 +318,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_8_c {
+#Path_8_cq {
 	fill: rgba(255,255,255,1);
 }
-.Path_8_c {
+.Path_8_cq {
 	overflow: visible;
 	position: absolute;
 	width: 35.132px;
@@ -459,10 +330,10 @@
 	top: 11.493px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_9_c {
+#Path_9_cr {
 	fill: rgba(255,255,255,1);
 }
-.Path_9_c {
+.Path_9_cr {
 	overflow: visible;
 	position: absolute;
 	width: 31.808px;
@@ -471,10 +342,10 @@
 	top: 11.306px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_11_c {
+#Path_11_cs {
 	fill: rgba(255,255,255,1);
 }
-.Path_11_c {
+.Path_11_cs {
 	overflow: visible;
 	position: absolute;
 	width: 24.265px;
@@ -483,10 +354,10 @@
 	top: 13.763px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_13_c {
+#Path_13_ct {
 	fill: rgba(255,255,255,1);
 }
-.Path_13_c {
+.Path_13_ct {
 	overflow: visible;
 	position: absolute;
 	width: 14.568px;
@@ -495,10 +366,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_15_c {
+#Path_15_cu {
 	fill: rgba(255,255,255,1);
 }
-.Path_15_c {
+.Path_15_cu {
 	overflow: visible;
 	position: absolute;
 	width: 14.567px;
@@ -507,10 +378,10 @@
 	top: 35.333px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_16_c {
+#Path_16_cv {
 	fill: rgba(255,255,255,1);
 }
-.Path_16_c {
+.Path_16_cv {
 	overflow: visible;
 	position: absolute;
 	width: 14.568px;
@@ -518,4 +389,151 @@
 	left: 218.32px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#GET_IN_TOUCH_cw {
+	position: absolute;
+	width: 1622.903px;
+	height: 242px;
+	left: 149px;
+	top: 5741px;
+	overflow: visible;
+}
+#Our_Client_cx {
+	position: absolute;
+	width: 286px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#GET_IN_TOUCH_cy {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(100,100,100,1);
+}
+#Group_16_cz {
+	position: absolute;
+	width: 259.903px;
+	height: 46.111px;
+	left: 1363px;
+	top: 134px;
+	overflow: visible;
+}
+#Path_1_c {
+	fill: rgba(102,89,72,1);
+}
+.Path_1_c {
+	overflow: visible;
+	position: absolute;
+	width: 46.393px;
+	height: 46.111px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_c {
+	fill: rgba(102,89,72,1);
+}
+.Path_2_c {
+	overflow: visible;
+	position: absolute;
+	width: 41.903px;
+	height: 41.903px;
+	left: 111px;
+	top: 4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_c {
+	fill: rgba(102,89,72,1);
+}
+.Path_4_c {
+	overflow: visible;
+	position: absolute;
+	width: 41.903px;
+	height: 41.903px;
+	left: 218px;
+	top: 4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID1270_Topaz_Ave_San_Jose_CA_9_c {
+	left: 1px;
+	top: 76px;
+	position: absolute;
+	overflow: visible;
+	width: 743px;
+	height: 166px;
+	line-height: 60px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(70,70,70,1);
+}
+#Please_contact_me_at_c {
+	left: 1206px;
+	top: 76px;
+	position: absolute;
+	overflow: hidden;
+	width: 417px;
+	height: 33px;
+	text-align: right;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(70,70,70,1);
+}
+#Foot_c {
+	position: absolute;
+	width: 1920px;
+	height: 102px;
+	left: 0px;
+	top: 6024px;
+	overflow: visible;
+}
+#Base_c {
+	fill: rgba(236,236,236,1);
+}
+.Base_c {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 102px;
+	left: 0px;
+	top: 0px;
+}
+#Text_c {
+	position: absolute;
+	width: 202px;
+	height: 14px;
+	left: 859px;
+	top: 47px;
+	overflow: visible;
+}
+#_2020_Huy_Tran_All_Rights_Rese_c {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	line-height: 14px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
 }

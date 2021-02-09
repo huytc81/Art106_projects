@@ -19,7 +19,7 @@
 #ABOUT {
 	position: absolute;
 	width: 1920px;
-	height: 3954px;
+	height: 3919px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: ABOUT;
@@ -40,7 +40,7 @@
 	}
 
 }
-#Path_1_da {
+#Path_1_db {
 	fill: rgba(93,93,93,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -49,7 +49,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_1_da {
+.Path_1_db {
 	overflow: visible;
 	position: absolute;
 	width: 1921px;
@@ -67,7 +67,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Through_small_sample_of_visual_dc {
+#Through_small_sample_of_intere_dd {
 	left: 272px;
 	top: 882px;
 	position: absolute;
@@ -84,15 +84,15 @@
 	color: rgba(59,59,59,1);
 	letter-spacing: 0.59px;
 }
-#GET_IN_TOUCH_dd {
+#GET_IN_TOUCH_de {
 	position: absolute;
 	width: 1622.903px;
 	height: 242px;
 	left: 149px;
-	top: 3569px;
+	top: 3519.485px;
 	overflow: visible;
 }
-#Our_Client_de {
+#Our_Client_df {
 	position: absolute;
 	width: 286px;
 	height: 44px;
@@ -100,7 +100,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#GET_IN_TOUCH_df {
+#GET_IN_TOUCH_dg {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -114,7 +114,7 @@
 	font-size: 40px;
 	color: rgba(100,100,100,1);
 }
-#Group_16_dg {
+#Group_16_dh {
 	position: absolute;
 	width: 259.903px;
 	height: 46.111px;
@@ -122,10 +122,10 @@
 	top: 134px;
 	overflow: visible;
 }
-#Path_1_dh {
+#Path_1_di {
 	fill: rgba(102,89,72,1);
 }
-.Path_1_dh {
+.Path_1_di {
 	overflow: visible;
 	position: absolute;
 	width: 46.393px;
@@ -134,10 +134,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2_di {
+#Path_2_dj {
 	fill: rgba(102,89,72,1);
 }
-.Path_2_di {
+.Path_2_dj {
 	overflow: visible;
 	position: absolute;
 	width: 41.903px;
@@ -146,10 +146,10 @@
 	top: 4px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_4_dj {
+#Path_4_dk {
 	fill: rgba(102,89,72,1);
 }
-.Path_4_dj {
+.Path_4_dk {
 	overflow: visible;
 	position: absolute;
 	width: 41.903px;
@@ -158,7 +158,7 @@
 	top: 4px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#ID1270_Topaz_Ave_San_Jose_CA_9_dk {
+#ID1270_Topaz_Ave_San_Jose_CA_9_dl {
 	left: 1px;
 	top: 76px;
 	position: absolute;
@@ -174,7 +174,7 @@
 	font-size: 35px;
 	color: rgba(70,70,70,1);
 }
-#Please_contact_me_at_dl {
+#Please_contact_me_at_dm {
 	left: 1206px;
 	top: 76px;
 	position: absolute;
@@ -188,18 +188,18 @@
 	font-size: 35px;
 	color: rgba(70,70,70,1);
 }
-#Foot_dm {
+#Foot_dn {
 	position: absolute;
 	width: 1920px;
 	height: 102px;
 	left: 0px;
-	top: 3852px;
+	top: 3817px;
 	overflow: visible;
 }
-#Base_dn {
+#Base_do {
 	fill: rgba(236,236,236,1);
 }
-.Base_dn {
+.Base_do {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -207,7 +207,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Text_do {
+#Text_dp {
 	position: absolute;
 	width: 202px;
 	height: 14px;
@@ -215,7 +215,7 @@
 	top: 47px;
 	overflow: visible;
 }
-#_2020_Huy_Tran_All_Rights_Rese_dp {
+#_2020_Huy_Tran_All_Rights_Rese_dq {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -246,13 +246,21 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.59px;
 }
-#Education_Experience_Skills {
+#Group_45 {
+	position: absolute;
+	width: 1641px;
+	height: 302.412px;
 	left: 210px;
 	top: 1508.558px;
+	overflow: visible;
+}
+#Education {
+	left: 0px;
+	top: 0px;
 	position: absolute;
 	overflow: visible;
 	width: 267.109px;
-	height: 168.99679565429688px;
+	height: 48.996795654296875px;
 	line-height: 60px;
 	margin-top: -12.5px;
 	text-align: left;
@@ -260,7 +268,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 35px;
-	color: rgba(100,100,100,1);
+	color: rgba(93,93,93,1);
 	letter-spacing: 0.25px;
 	text-transform: uppercase;
 }
@@ -268,8 +276,8 @@
 	position: absolute;
 	width: 1288px;
 	height: 302.412px;
-	left: 563px;
-	top: 1508.558px;
+	left: 353px;
+	top: 0px;
 	overflow: visible;
 }
 #Currently_BFA__Digital_Media_a {
@@ -286,7 +294,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 30px;
-	color: rgba(51,51,51,1);
+	color: rgba(93,93,93,1);
 	letter-spacing: 0.25px;
 }
 #AA_Graphic_Design__September_2 {
@@ -303,7 +311,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 30px;
-	color: rgba(51,51,51,1);
+	color: rgba(93,93,93,1);
 	letter-spacing: 0.25px;
 }
 #description_text {
@@ -314,7 +322,7 @@
 	top: 1070.173px;
 	overflow: visible;
 }
-#Description_dw {
+#Description_dy {
 	position: absolute;
 	width: 1500px;
 	height: 341.213px;
@@ -336,14 +344,22 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 30px;
-	color: rgba(51,51,51,1);
+	color: rgba(93,93,93,1);
 }
-#Exp_text {
+#Group_46 {
 	position: absolute;
 	width: 1500px;
 	height: 354.962px;
 	left: 210px;
 	top: 1835.937px;
+	overflow: visible;
+}
+#Exp_text {
+	position: absolute;
+	width: 1500px;
+	height: 354.962px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
 #Group_44 {
@@ -368,7 +384,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 35px;
-	color: rgba(100,100,100,1);
+	color: rgba(93,93,93,1);
 	letter-spacing: 0.25px;
 	text-transform: uppercase;
 }
@@ -386,15 +402,23 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 30px;
-	color: rgba(51,51,51,1);
+	color: rgba(93,93,93,1);
 	letter-spacing: 0.25px;
 }
-#Skills_text {
+#Group_47 {
 	position: absolute;
 	width: 1499.766px;
 	height: 1252.65px;
 	left: 210px;
 	top: 2215.867px;
+	overflow: visible;
+}
+#Skills_text {
+	position: absolute;
+	width: 1499.766px;
+	height: 1252.65px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
 #Skills {
@@ -411,7 +435,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 35px;
-	color: rgba(100,100,100,1);
+	color: rgba(93,93,93,1);
 	letter-spacing: 0.25px;
 	text-transform: uppercase;
 }
@@ -437,7 +461,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 30px;
-	color: rgba(51,51,51,1);
+	color: rgba(93,93,93,1);
 	letter-spacing: 0.25px;
 }
 #Description_ea {
@@ -462,10 +486,10 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 30px;
-	color: rgba(51,51,51,1);
+	color: rgba(93,93,93,1);
 	letter-spacing: 0.25px;
 }
-#top_nav_d {
+#top_nav_ec {
 	position: absolute;
 	width: 1745.658px;
 	height: 53px;
@@ -473,7 +497,7 @@
 	top: 60px;
 	overflow: visible;
 }
-#Group_2_d {
+#Group_2_ed {
 	position: absolute;
 	width: 429px;
 	height: 42px;
@@ -481,7 +505,7 @@
 	top: 11px;
 	overflow: visible;
 }
-#PROJECTS_ea {
+#PROJECTS_ee {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -500,7 +524,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.59px;
 }
-#PROFILE_eb {
+#PROFILE_ef {
 	left: 269px;
 	top: 0px;
 	position: absolute;
@@ -515,7 +539,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.59px;
 }
-#Group_1_ec {
+#Group_1_eg {
 	position: absolute;
 	width: 232.889px;
 	height: 52.102px;
@@ -523,10 +547,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_2_ed {
+#Path_2_eh {
 	fill: rgba(255,255,255,1);
 }
-.Path_2_ed {
+.Path_2_eh {
 	overflow: visible;
 	position: absolute;
 	width: 5.454px;
@@ -535,10 +559,10 @@
 	top: 13.763px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_3_ee {
+#Path_3_ei {
 	fill: rgba(255,255,255,1);
 }
-.Path_3_ee {
+.Path_3_ei {
 	overflow: visible;
 	position: absolute;
 	width: 26.751px;
@@ -547,10 +571,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_4_ef {
+#Path_4_ej {
 	fill: rgba(255,255,255,1);
 }
-.Path_4_ef {
+.Path_4_ej {
 	overflow: visible;
 	position: absolute;
 	width: 29.094px;
@@ -559,10 +583,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_5_eg {
+#Path_5_ek {
 	fill: rgba(255,255,255,1);
 }
-.Path_5_eg {
+.Path_5_ek {
 	overflow: visible;
 	position: absolute;
 	width: 5.454px;
@@ -571,10 +595,10 @@
 	top: 38.576px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_6_eh {
+#Path_6_el {
 	fill: rgba(255,255,255,1);
 }
-.Path_6_eh {
+.Path_6_el {
 	overflow: visible;
 	position: absolute;
 	width: 22.048px;
@@ -583,10 +607,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_7_ei {
+#Path_7_em {
 	fill: rgba(255,255,255,1);
 }
-.Path_7_ei {
+.Path_7_em {
 	overflow: visible;
 	position: absolute;
 	width: 23.43px;
@@ -595,10 +619,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_8_ej {
+#Path_8_en {
 	fill: rgba(255,255,255,1);
 }
-.Path_8_ej {
+.Path_8_en {
 	overflow: visible;
 	position: absolute;
 	width: 35.131px;
@@ -607,10 +631,10 @@
 	top: 11.493px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_9_ek {
+#Path_9_eo {
 	fill: rgba(255,255,255,1);
 }
-.Path_9_ek {
+.Path_9_eo {
 	overflow: visible;
 	position: absolute;
 	width: 31.808px;
@@ -619,10 +643,10 @@
 	top: 11.306px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_11_el {
+#Path_11_ep {
 	fill: rgba(255,255,255,1);
 }
-.Path_11_el {
+.Path_11_ep {
 	overflow: visible;
 	position: absolute;
 	width: 24.265px;
@@ -631,10 +655,10 @@
 	top: 13.763px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_13_em {
+#Path_13_eq {
 	fill: rgba(255,255,255,1);
 }
-.Path_13_em {
+.Path_13_eq {
 	overflow: visible;
 	position: absolute;
 	width: 14.568px;
@@ -643,10 +667,10 @@
 	top: 13.764px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_15_en {
+#Path_15_er {
 	fill: rgba(255,255,255,1);
 }
-.Path_15_en {
+.Path_15_er {
 	overflow: visible;
 	position: absolute;
 	width: 14.567px;
@@ -655,10 +679,10 @@
 	top: 35.333px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_16_eo {
+#Path_16_es {
 	fill: rgba(255,255,255,1);
 }
-.Path_16_eo {
+.Path_16_es {
 	overflow: visible;
 	position: absolute;
 	width: 14.568px;

@@ -1,0 +1,669 @@
+.mediaViewInfo {
+	--web-view-name: ABOUT;
+	--web-view-id: ABOUT;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ABOUT;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#ABOUT {
+	position: absolute;
+	width: 1920px;
+	height: 3954px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: ABOUT;
+	--web-view-id: ABOUT;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_1_da {
+	fill: rgba(93,93,93,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_da {
+	overflow: visible;
+	position: absolute;
+	width: 1921px;
+	height: 785.333px;
+	left: 0.5px;
+	top: 0.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#hero_contact {
+	mix-blend-mode: soft-light;
+	position: absolute;
+	width: 1920px;
+	height: 784.327px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Through_small_sample_of_visual_dc {
+	left: 272px;
+	top: 882px;
+	position: absolute;
+	overflow: visible;
+	width: 1376px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(59,59,59,1);
+	letter-spacing: 0.59px;
+}
+#GET_IN_TOUCH_dd {
+	position: absolute;
+	width: 1622.903px;
+	height: 242px;
+	left: 149px;
+	top: 3569px;
+	overflow: visible;
+}
+#Our_Client_de {
+	position: absolute;
+	width: 286px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#GET_IN_TOUCH_df {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(100,100,100,1);
+}
+#Group_16_dg {
+	position: absolute;
+	width: 259.903px;
+	height: 46.111px;
+	left: 1363px;
+	top: 134px;
+	overflow: visible;
+}
+#Path_1_dh {
+	fill: rgba(102,89,72,1);
+}
+.Path_1_dh {
+	overflow: visible;
+	position: absolute;
+	width: 46.393px;
+	height: 46.111px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_di {
+	fill: rgba(102,89,72,1);
+}
+.Path_2_di {
+	overflow: visible;
+	position: absolute;
+	width: 41.903px;
+	height: 41.903px;
+	left: 111px;
+	top: 4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_dj {
+	fill: rgba(102,89,72,1);
+}
+.Path_4_dj {
+	overflow: visible;
+	position: absolute;
+	width: 41.903px;
+	height: 41.903px;
+	left: 218px;
+	top: 4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID1270_Topaz_Ave_San_Jose_CA_9_dk {
+	left: 1px;
+	top: 76px;
+	position: absolute;
+	overflow: visible;
+	width: 743px;
+	height: 166px;
+	line-height: 60px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(70,70,70,1);
+}
+#Please_contact_me_at_dl {
+	left: 1206px;
+	top: 76px;
+	position: absolute;
+	overflow: hidden;
+	width: 417px;
+	height: 33px;
+	text-align: right;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(70,70,70,1);
+}
+#Foot_dm {
+	position: absolute;
+	width: 1920px;
+	height: 102px;
+	left: 0px;
+	top: 3852px;
+	overflow: visible;
+}
+#Base_dn {
+	fill: rgba(236,236,236,1);
+}
+.Base_dn {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 102px;
+	left: 0px;
+	top: 0px;
+}
+#Text_do {
+	position: absolute;
+	width: 202px;
+	height: 14px;
+	left: 859px;
+	top: 47px;
+	overflow: visible;
+}
+#_2020_Huy_Tran_All_Rights_Rese_dp {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	line-height: 14px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#CONTACT {
+	left: 1207px;
+	top: 262px;
+	position: absolute;
+	overflow: hidden;
+	width: 624px;
+	height: 130px;
+	text-align: right;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.59px;
+}
+#Education_Experience_Skills {
+	left: 210px;
+	top: 1508.558px;
+	position: absolute;
+	overflow: visible;
+	width: 267.109px;
+	height: 168.99679565429688px;
+	line-height: 60px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(100,100,100,1);
+	letter-spacing: 0.25px;
+	text-transform: uppercase;
+}
+#Description {
+	position: absolute;
+	width: 1288px;
+	height: 302.412px;
+	left: 563px;
+	top: 1508.558px;
+	overflow: visible;
+}
+#Currently_BFA__Digital_Media_a {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1289px;
+	height: 136.41189575195312px;
+	line-height: 50px;
+	margin-top: -10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,51,51,1);
+	letter-spacing: 0.25px;
+}
+#AA_Graphic_Design__September_2 {
+	left: 0px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 1289px;
+	height: 132.41189575195312px;
+	line-height: 50px;
+	margin-top: -10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(51,51,51,1);
+	letter-spacing: 0.25px;
+}
+#description_text {
+	position: absolute;
+	width: 1500px;
+	height: 341.213px;
+	left: 210px;
+	top: 1070.173px;
+	overflow: visible;
+}
+#Description_dw {
+	position: absolute;
+	width: 1500px;
+	height: 341.213px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Motivated_and_creative_individ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1501px;
+	height: 341.212890625px;
+	line-height: 60px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(51,51,51,1);
+}
+#Exp_text {
+	position: absolute;
+	width: 1500px;
+	height: 354.962px;
+	left: 210px;
+	top: 1835.937px;
+	overflow: visible;
+}
+#Group_44 {
+	position: absolute;
+	width: 1500px;
+	height: 354.962px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Experience_Skills {
+	left: 0px;
+	top: 0.001px;
+	position: absolute;
+	overflow: visible;
+	width: 293.109px;
+	height: 116.99678039550781px;
+	line-height: 60px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(100,100,100,1);
+	letter-spacing: 0.25px;
+	text-transform: uppercase;
+}
+#Freelance_at_Hakuhodo_Vietnam_ {
+	left: 353px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1148px;
+	height: 354.96240234375px;
+	line-height: 60px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(51,51,51,1);
+	letter-spacing: 0.25px;
+}
+#Skills_text {
+	position: absolute;
+	width: 1499.766px;
+	height: 1252.65px;
+	left: 210px;
+	top: 2215.867px;
+	overflow: visible;
+}
+#Skills {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 267.109px;
+	height: 59.996795654296875px;
+	line-height: 60px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(100,100,100,1);
+	letter-spacing: 0.25px;
+	text-transform: uppercase;
+}
+#Description_d {
+	position: absolute;
+	width: 571.752px;
+	height: 1252.65px;
+	left: 353px;
+	top: 0px;
+	overflow: visible;
+}
+#Professional__Team_Leadership_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 572.752px;
+	height: 1252.650390625px;
+	line-height: 60px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,51,51,1);
+	letter-spacing: 0.25px;
+}
+#Description_ea {
+	position: absolute;
+	width: 551.766px;
+	height: 1252.65px;
+	left: 948px;
+	top: 0px;
+	overflow: visible;
+}
+#Personal__Professional__Time_M {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 552.766px;
+	height: 1252.650390625px;
+	line-height: 60px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,51,51,1);
+	letter-spacing: 0.25px;
+}
+#top_nav_d {
+	position: absolute;
+	width: 1745.658px;
+	height: 53px;
+	left: 82px;
+	top: 60px;
+	overflow: visible;
+}
+#Group_2_d {
+	position: absolute;
+	width: 429px;
+	height: 42px;
+	left: 1316.658px;
+	top: 11px;
+	overflow: visible;
+}
+#PROJECTS_ea {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.59px;
+}
+#PROFILE_eb {
+	left: 269px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.59px;
+}
+#Group_1_ec {
+	position: absolute;
+	width: 232.889px;
+	height: 52.102px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_2_ed {
+	fill: rgba(255,255,255,1);
+}
+.Path_2_ed {
+	overflow: visible;
+	position: absolute;
+	width: 5.454px;
+	height: 36.138px;
+	left: 0px;
+	top: 13.763px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_ee {
+	fill: rgba(255,255,255,1);
+}
+.Path_3_ee {
+	overflow: visible;
+	position: absolute;
+	width: 26.751px;
+	height: 36.793px;
+	left: 30.171px;
+	top: 13.764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_ef {
+	fill: rgba(255,255,255,1);
+}
+.Path_4_ef {
+	overflow: visible;
+	position: absolute;
+	width: 29.094px;
+	height: 36.138px;
+	left: 61.089px;
+	top: 13.764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5_eg {
+	fill: rgba(255,255,255,1);
+}
+.Path_5_eg {
+	overflow: visible;
+	position: absolute;
+	width: 5.454px;
+	height: 11.326px;
+	left: 113.658px;
+	top: 38.576px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_6_eh {
+	fill: rgba(255,255,255,1);
+}
+.Path_6_eh {
+	overflow: visible;
+	position: absolute;
+	width: 22.048px;
+	height: 27.886px;
+	left: 105.349px;
+	top: 13.764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7_ei {
+	fill: rgba(255,255,255,1);
+}
+.Path_7_ei {
+	overflow: visible;
+	position: absolute;
+	width: 23.43px;
+	height: 36.138px;
+	left: 132.265px;
+	top: 13.764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8_ej {
+	fill: rgba(255,255,255,1);
+}
+.Path_8_ej {
+	overflow: visible;
+	position: absolute;
+	width: 35.131px;
+	height: 38.408px;
+	left: 156.981px;
+	top: 11.493px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9_ek {
+	fill: rgba(255,255,255,1);
+}
+.Path_9_ek {
+	overflow: visible;
+	position: absolute;
+	width: 31.808px;
+	height: 40.796px;
+	left: 196.63px;
+	top: 11.306px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_11_el {
+	fill: rgba(255,255,255,1);
+}
+.Path_11_el {
+	overflow: visible;
+	position: absolute;
+	width: 24.265px;
+	height: 36.138px;
+	left: 3.983px;
+	top: 13.763px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13_em {
+	fill: rgba(255,255,255,1);
+}
+.Path_13_em {
+	overflow: visible;
+	position: absolute;
+	width: 14.568px;
+	height: 14.567px;
+	left: 46.521px;
+	top: 13.764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_15_en {
+	fill: rgba(255,255,255,1);
+}
+.Path_15_en {
+	overflow: visible;
+	position: absolute;
+	width: 14.567px;
+	height: 14.568px;
+	left: 192.113px;
+	top: 35.333px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_16_eo {
+	fill: rgba(255,255,255,1);
+}
+.Path_16_eo {
+	overflow: visible;
+	position: absolute;
+	width: 14.568px;
+	height: 14.567px;
+	left: 218.32px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
